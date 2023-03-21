@@ -1,0 +1,11 @@
+.Main {
+    height: 100vh;
+    background: url(./topograph\ bg.png) no-repeat;
+    background-size: cover;
+    color:white;
+    
+}
+
+.Introduction {
+    text-align: center;
+}
