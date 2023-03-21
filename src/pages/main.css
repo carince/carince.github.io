@@ -9,3 +9,7 @@
 .Introduction {
     text-align: center;
 }
+
+.Card {
+    backdrop-filter: blur(10px);
+}
