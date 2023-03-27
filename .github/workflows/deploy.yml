@@ -5,7 +5,7 @@ on:
     branches: [ vite ]
 
 permissions:
-  actions: write
+  actions: write-all
 
 jobs:
   build:
