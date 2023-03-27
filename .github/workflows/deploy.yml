@@ -4,8 +4,7 @@ on:
   push:
     branches: [ vite ]
 
-permissions:
-  actions: write-all
+permissions: write-all
 
 jobs:
   build:
