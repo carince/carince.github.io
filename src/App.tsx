@@ -9,9 +9,9 @@ export default function App() {
                     <Navbar />
                     <Hero />
                 </div>
+                <About />
                 {/* 
                     To be uncommented when it is ready to be published 
-                    <About />
                     <Tech />
                     <Projects />
                     <Contact /> 
