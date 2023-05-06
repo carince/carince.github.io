@@ -4,7 +4,7 @@ import { Hero, About, Tech, Projects, Contact, Navbar } from './components'
 export default function App() {
     return (
         <BrowserRouter >
-            <div className='relative z-0 bg-primary'>
+            <div className='relative z-0 bg-black'>
                 <div className='bg-cover bg-no-repeat bg-center'>
                     <Navbar />
                     <Hero />
